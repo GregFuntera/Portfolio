@@ -1,0 +1,230 @@
+@import url("960_12_col.css");
+@import url("fonts.css");
+
+
+
+body {
+	margin: 0px;
+	background-color: #000000;
+	text-align: center;
+	font-size: small;
+	color: white;
+	zoom:80%;
+}
+
+
+.header {
+	width: 100%;
+}
+
+.description {
+	margin-top: 30px;
+}
+
+.quote {
+	font-family: 'Ubuntu-LightItalic';
+	font-size: 50px;
+	text-align: center;
+	border-top: solid white 4px;
+	border-bottom: solid white 4px;
+}
+#orange-font {
+	color: #f57c00;
+}
+
+#quote-bold {
+	color: #f57c00;
+	font-weight: bold;
+}
+
+.name {
+	line-height: 2em;
+}
+
+#john {
+	font-family:'urw-bookman-l-light-italic';
+	font-size: 65px;
+}
+
+#gregory {
+	font-family:'URW-Gothic-L-Bold';
+	font-size: 80px;
+}
+
+#funtera {
+	font-family: 'WenQuanYi-Micro-Hei-Mono';
+	font-size: 65px;
+}
+
+#bio-data {
+	font-family: 'URW-Gothic-L-Book';
+	font-weight: lighter;
+	font-size: 65px;
+	border:white solid 5px;
+	margin-right: 150px;
+	margin-left: 150px;
+	padding: 30px 0px 30px 0px;
+	margin-top: 70px;
+}
+
+#educnum-heading,#work-heading, #techskills-num-heading {
+	font-family: 'URW-Gothic-L-Book';
+	font-size: 80px;
+	font-weight: lighter;
+	margin-left: 100px;
+}
+
+.education h1 {
+	margin-top: 50px;
+}
+
+#educlabel-heading, #backgroundlabel-heading{
+	font-size: 45px;
+	letter-spacing: 10px;
+	line-height: 60px;
+}
+
+#educlabel-heading {
+	font-family: 'BrokenChalk';
+}
+
+#backgroundlabel-heading {
+	font-family: 'standard-symbols-l';
+	font-weight: bolder;
+}
+
+.educ-description p{
+	line-height: 0.8em;
+}
+
+.educ-description {
+	border-top: solid white 5px;
+	border-bottom: solid white 5px;
+}
+
+#school, #school-degree, #school-date, #school-location {
+	font-family: 'URW-Gothic-L-Book'
+}
+
+#school {
+	font-weight: bold;
+	font-size: 45px;
+}
+
+#school-degree {
+	font-size: 30px;
+}
+
+#school-location {
+	font-size: 25px;
+	letter-spacing: 3px;
+
+}
+
+#school-date {
+	font-size: 20px;
+	font-weight: bolder;
+	color: #fff94d;
+	padding-bottom: 30px;
+}
+#work-heading {
+	margin-top: 90px;
+}
+.work h1 {
+	margin-top: 80px;
+	text-align: left;
+}
+#work-title, #experience-title {
+	font-size: 60px;
+	letter-spacing: 10px;
+	line-height: 60px;
+}
+
+#work-title {
+	font-family: 'CharterBT-BoldItalic' ;
+}
+
+#experience-title {
+	font-family: 'FreeMono';
+}
+
+.work-content {
+	border-top: solid white 5px;
+	border-bottom: solid white 5px;
+}
+
+.work-company {
+	font-family: 'URW-Gothic-L-Book';
+	font-weight: bold;
+	font-size: 150px;
+	margin:-100px 0px -100px 0px;
+}
+
+.work-description {
+	font-family: 'URW-Gothic-L-Book';
+	font-size: 25px;
+	text-align: left;
+	margin-top: 30px;
+}
+
+#work-programmer {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#work-date {
+	font-weight: bold;
+	color: #fff94d;
+}
+
+.techskills {
+	margin-top: 20px;
+}
+
+#technical-skills-heading {
+	text-align: left;
+	font-size: 60px;
+	line-height: 1em;
+}
+
+#technical {
+	font-family: 'bitwise';
+	letter-spacing: 10px;
+}
+
+#skills {
+	font-family: 'URW-Gothic-L-Book';
+	letter-spacing: 10px;
+}
+
+.programming-skills {
+	font-family: 'Hermit';
+	text-align: left;
+	font-size: 30px;
+	border-top: white solid 4px;
+	border-bottom: white solid 4px;
+}
+
+#code{
+	margin-left: 100px;
+}
+
+#main-code {
+	margin-left: 350px;
+	line-height: 1.8em;
+}
+
+#code-red {
+	color: #ff4848;
+}
+
+#code-blue {
+	color: #03a9f4;
+}
+
+#code-green {
+	color: #06ec62;
+}
+
+
+

@@ -1,0 +1,58 @@
+@font-face {
+	font-family: 'Ubuntu-LightItalic';
+	src:url('../fonts/Ubuntu-LightItalic.ttf');
+
+}
+
+@font-face {
+	font-family:'urw-bookman-l-light-italic';
+	src:url('../fonts/urw-bookman-l-light-italic.ttf');
+}
+
+@font-face {
+	font-family:'URW-Gothic-L-Bold';
+	src:url('../fonts/URW-Gothic-L-Bold.ttf');
+}
+
+@font-face {
+	font-family:'WenQuanYi-Micro-Hei-Mono';
+	src:url('../fonts/WenQuanYi Micro Hei.ttf');
+}
+
+@font-face {
+	font-family:'URW-Gothic-L-Book';
+	src:url('../fonts/urw-gothic-l-book.ttf');
+}
+
+@font-face {
+	font-family:'BrokenChalk';
+	src:url('../fonts/BrokenChalk.ttf');
+}
+
+@font-face {
+	font-family:'standard-symbols-l';
+	src:url('../fonts/expressway-free.regular.ttf');
+}
+
+@font-face {
+	font-family:'CharterBT-BoldItalic';
+	src:url('../fonts/CharterBT-BoldItalic.otf');
+}
+
+@font-face {
+	font-family:'FreeMono';
+	src:url('../fonts/FreeMono.ttf'),
+		url('../fonts/FreeMono.otf');
+}
+
+@font-face {
+	font-family:'Bitwise';
+	src:url('../fonts/Bitwise.ttf');
+}
+
+@font-face {
+	font-family:'Hermit';
+	src:url('../fonts/Hermit-medium.otf');
+
+}
+
