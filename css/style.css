@@ -1,8 +1,6 @@
 @import url("960_12_col.css");
 @import url("fonts.css");
 
-
-
 body {
 	margin: 0px;
 	background-color: #000000;
@@ -11,7 +9,6 @@ body {
 	color: white;
 	zoom:80%;
 }
-
 
 .header {
 	width: 100%;
@@ -56,7 +53,7 @@ body {
 	font-size: 65px;
 }
 
-#bio-data {
+#bio-data,#projects-heading {
 	font-family: 'URW-Gothic-L-Book';
 	font-weight: lighter;
 	font-size: 65px;
@@ -226,5 +223,107 @@ body {
 	color: #06ec62;
 }
 
+#thesis-title ,#thesis-authors, .project-description,
+#app-title,#app-author,.app-project-description {
+	font-family: 'URW-Gothic-L-Book';
+	
+}
+
+.first-project a{
+	text-decoration: none;
+}
+
+.first-project a:visited {
+	color: white;
+}
+
+#first-project-title:hover {
+	text-decoration: underline;
+}
+
+#project-font {
+	color: #f57c00;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#thesis-title {
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 1.6em;
+}
+
+#thesis-authors {
+	font-size: 25px;
+	line-height: 1em;
+}
+
+.first-project img {
+	padding-bottom: 10px;
+}
+
+.project-description,.app-project-description {
+	text-align: justify;
+	word-spacing: -2px;
+	font-size: 20px;
+	padding: 25px 0px 0px 50px;
+	line-height: 1.6em;
+}
+
+.app-project {
+	margin-top: 100px;
+	line-height: 0.8em;
+}
+
+.app-project-description {
+	margin-top: 80px;
+}
+#app-title {
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#app-author {
+	font-size: 30px;
+
+}
+
+.app-project a {
+	text-decoration: none;
+}
+
+.app-project a:visited {
+	color: white;
+}
+
+.app-project a:hover {
+	color: #f57c00;
+}
 
 
+.ending {
+	margin-top: 50px;
+	border-bottom:solid white 4px;
+}
+
+.ending p{
+	font-size: 60px;
+}
+
+.footer {
+	font-family:'URW-Gothic-L-Book';
+	text-align: left;
+	font-size: 15px;
+	line-height: 0.5em;
+	letter-spacing: 2px;
+}
+#copyright {
+	float: right;
+	font-size: 12px;
+}
+
+#footer-email ,#footer-contact{
+	font-weight: bold;
+	color: #f57c00;
+	letter-spacing: 3px;
+}
