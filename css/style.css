@@ -237,9 +237,6 @@ body {
 	color: white;
 }
 
-#first-project-title:hover {
-	text-decoration: underline;
-}
 
 #project-font {
 	color: #f57c00;
@@ -296,9 +293,6 @@ body {
 	color: white;
 }
 
-.app-project a:hover {
-	color: #f57c00;
-}
 
 
 .ending {
