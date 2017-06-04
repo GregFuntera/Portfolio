@@ -231,6 +231,7 @@ body {
 
 .first-project a{
 	text-decoration: none;
+	color: white;
 }
 
 .first-project a:visited {
