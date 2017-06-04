@@ -234,11 +234,6 @@ body {
 	color: white;
 }
 
-.first-project a:visited {
-	color: white;
-}
-
-
 #project-font {
 	color: #f57c00;
 	font-size: 35px;
@@ -288,9 +283,6 @@ body {
 
 .app-project a {
 	text-decoration: none;
-}
-
-.app-project a:visited {
 	color: white;
 }
 
